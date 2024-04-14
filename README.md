@@ -24,3 +24,6 @@ The Student Complaint Management System is a web application designed to help ma
 
    ```bash
    git clone https://github.com/yourusername/student-complaint-management.git
+
+("./img/CMSHome")
+   
